@@ -6,4 +6,4 @@
 
 Read through the Documentation to view work, process, notes and findings from both Red Team and Blue Team perspective that lead up to creation of the final presentation.
 
-#### View the final pdf slide [project presentation here](https://github.com/mhighbe-20/cybersecurity_Red_vs_Blue-project2/blob/main/Project-2_Red_vs_Blue.pdf).
+#### To view the presentation pdf, follow the link. => [Project-2_Red_vs_Blue](https://github.com/mhighbe-20/cybersecurity_Red_vs_Blue-project2/blob/main/Project-2_Red_vs_Blue.pdf).
